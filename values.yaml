@@ -5,3 +5,10 @@ repositories:
 - repourl: https://github.com/mmalla2/XYZ
 labels:
 app-id: 12345
+
+name: 
+namespace: 22
+repositories: 
+- repourl: https://github.com/mmalla2/XYZ
+labels:
+app-id: 12345
