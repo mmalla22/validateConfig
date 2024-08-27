@@ -6,7 +6,7 @@ repositories:
 labels:
 app-id: 12345
 
-name: 111
+name: 
 namespace: 22
 repositories: 
 - repourl: https://github.com/mmalla2/XYZ
