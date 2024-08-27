@@ -1,0 +1,7 @@
+appproject:
+name: str(required=True)
+namespace: str(required=True)
+repositories: 
+- repourl: str(required=True)
+labels:
+app-id: int(required=True)
